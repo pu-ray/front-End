@@ -1,0 +1,17 @@
+body{
+	background-color: #ccc;
+	font-family: arial;
+}
+.cont{
+	margin:0 auto;
+	width:600px;
+	
+}
+.media{
+	min-height: 500px;
+	margin: 0 auto;
+	width: 600px;
+}
+.media.map{
+	width:100%;
+}
